@@ -1,13 +1,18 @@
-﻿<!DOCTYPE HTML>
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Versión mejorada</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<main>
 
-int main(){
-    int length;
-    scanf("%i", &length);
+6
 
-    int office = pow(2,length);
-    printf("%i",office);
-    return 0;
-}
+<h1>Laboratorio de Github</h1>
+<div class="card-panel">
+<span class="blue-text">Tarjeta</span>
+</div>
+</main>
+</body>
+</html>
